@@ -1,4 +1,4 @@
-package guru.springframework.security;
+package ynm.springbootcap.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -34,7 +34,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
         // Create a default account
         auth.inMemoryAuthentication()
                 .withUser("admin")
-                .password(passwordencoder().encode("guru"))
+                .password(passwordencoder().encode("fly"))
                 .roles("ADMIN");
     }
 

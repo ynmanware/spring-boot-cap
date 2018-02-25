@@ -1,9 +1,9 @@
-package guru.springframework.controllers;
+package ynm.springbootcap.controllers;
 
-import guru.springframework.commands.ProductForm;
-import guru.springframework.converters.ProductToProductForm;
-import guru.springframework.domain.Product;
-import guru.springframework.services.ProductService;
+import ynm.springbootcap.commands.ProductForm;
+import ynm.springbootcap.converters.ProductToProductForm;
+import ynm.springbootcap.domain.Product;
+import ynm.springbootcap.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -14,9 +14,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import javax.validation.Valid;
 
-/**
- * Created by jt on 1/10/17.
- */
 @Controller
 public class ProductController {
     private ProductService productService;

@@ -1,4 +1,4 @@
-package guru.springframework.security;
+package ynm.springbootcap.security;
 
 public class AccountCredentials {
 

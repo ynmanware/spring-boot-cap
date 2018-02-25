@@ -1,4 +1,4 @@
-package guru.springframework.security;
+package ynm.springbootcap.security;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

@@ -1,9 +1,9 @@
-package guru.springframework.services;
+package ynm.springbootcap.services;
 
-import guru.springframework.commands.ProductForm;
-import guru.springframework.converters.ProductFormToProduct;
-import guru.springframework.domain.Product;
-import guru.springframework.repositories.ProductRepository;
+import ynm.springbootcap.commands.ProductForm;
+import ynm.springbootcap.converters.ProductFormToProduct;
+import ynm.springbootcap.domain.Product;
+import ynm.springbootcap.repositories.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

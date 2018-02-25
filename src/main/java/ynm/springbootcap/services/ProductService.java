@@ -1,7 +1,7 @@
-package guru.springframework.services;
+package ynm.springbootcap.services;
 
-import guru.springframework.commands.ProductForm;
-import guru.springframework.domain.Product;
+import ynm.springbootcap.commands.ProductForm;
+import ynm.springbootcap.domain.Product;
 
 import java.util.List;
 

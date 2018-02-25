@@ -1,7 +1,7 @@
-package guru.springframework.controllers;
+package ynm.springbootcap.controllers;
 
-import guru.springframework.domain.Product;
-import guru.springframework.services.ProductService;
+import ynm.springbootcap.domain.Product;
+import ynm.springbootcap.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

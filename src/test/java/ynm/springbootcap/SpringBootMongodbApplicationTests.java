@@ -1,4 +1,4 @@
-package guru.springframework;
+package ynm.springbootcap;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

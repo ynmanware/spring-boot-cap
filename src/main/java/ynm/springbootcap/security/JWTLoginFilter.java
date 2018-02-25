@@ -1,4 +1,4 @@
-package guru.springframework.security;
+package ynm.springbootcap.security;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.security.authentication.AuthenticationManager;
