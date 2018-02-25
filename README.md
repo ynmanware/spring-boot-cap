@@ -2,7 +2,7 @@
 Attempt to create a sample Spring boot application having 
 * REST 
 * MongoDB (https://mlab.com/databases/mongo_y)
-* Security 
+* Security ()
 * Monitoring and Tracking features
 
 ###After downloading code, 
@@ -11,7 +11,8 @@ Attempt to create a sample Spring boot application having
 - mvn spring-boot:run
 - log-in using http://localhost:8095/login
 ![alt login](readme/login.jpg)
-
+- access endpoints as 
+![alt Access Endpoints](readme/getData.jpg)
 
 
 
